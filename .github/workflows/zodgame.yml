@@ -2,7 +2,7 @@ name: zodgame
 
 on:
   schedule:
-  - cron: "48 5,11 * * *"
+  - cron: "48 17,23 * * *"
   
   push:
     branches: [ main ]
